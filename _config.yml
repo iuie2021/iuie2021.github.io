@@ -20,15 +20,13 @@ title: Chirpy                          # the main title
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+知足是人生在世最大的幸事.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://iuie2021.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: iuie2021           # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
