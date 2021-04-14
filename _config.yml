@@ -20,7 +20,7 @@ title: Chirpy                          # the main title
 tagline: 知足是人生在世最大的幸事.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  知足是人生在世最大的幸事.
+  Wordpress使用日常，生活日常的集合窝！
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://iuie2021.github.io'
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Iuie
-  email: doyuo@q.com             # change to your email address
+  name: UIE
+  email: 2074997935@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
