@@ -15,12 +15,12 @@ timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Oneuie                          # the main title
 
-tagline: 知足是人生在世最大的幸事.   # it will display as the sub-title
+tagline: Throw me to the wolves, and I will return leading them.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Wordpress使用日常，生活日常的集合窝！
+  Oneuie's 网站，分享，生活，爱好，吐槽集合窝
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://oneuie.me'
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: UIE
+  name: Oneuie
   email: 2074997935@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
