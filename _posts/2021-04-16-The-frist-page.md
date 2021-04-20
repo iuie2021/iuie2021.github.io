@@ -1,7 +1,9 @@
 ---
-title: Writing a New Post
-author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
-categories: [Blogging,Tutorial]
-tags: [writing]
+title: Jekyll进行一些简单汉化
+author: Oneuie
+date: 2021-4-20 11:25:00 +0800
+categories: [教程,Jeklyy]
+tags: [Jekyll]
 ---
+
+s
