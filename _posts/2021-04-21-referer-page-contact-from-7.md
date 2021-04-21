@@ -1,9 +1,9 @@
 ---
-title: Contact From 7 如何在表单中添加referer paga信息
+title: Contact From 7 如何在表单中添加 referer page 信息?
 author: Oneuie
 date: 2021-4-21 11:22:00 +0800
 categories: [Wordpress,插件]
-tags: [Wordpress]
+tags: [Wordpress,Contactfrom7]
 ---
 
 平时我们使用contact from 7可以得到一封非常完善的询盘信息。但是如何了解访客是`通过哪一个页面`进入我们的`发送询盘的页面`的呢？
