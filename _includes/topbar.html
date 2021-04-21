@@ -10,7 +10,7 @@
 
     {% if paths.size == 0 %}
       <!-- index page -->
-      <span>{{ 'Posts' }}</span>
+      <span>{{ '主页' }}</span>
     {% else %}
 
       {% for item in paths %}
@@ -32,7 +32,7 @@
             {% assign url = '/' %}
           {% endif %}
           <a href="{{ url | relative_url }}">
-            {{ item | capitalize }}
+            {{ '主页' }}
           </a>
         </span>
 
